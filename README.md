@@ -45,6 +45,7 @@ Un restablecimiento de fábrica restaura el firmware del dispositivo a la aplica
 
 ## recursos
 
+- core quickstart | [https://docs.particle.io/tutorials/device-os/led/core/](https://docs.particle.io/tutorials/device-os/led/core/) 
 - datasheet | [https://docs.particle.io/](https://docs.particle.io/datasheets/discontinued/core-datasheet/)
 - sitio viejo | [https//www.particle.io/?redirected=true](https://docs.particle.io/datasheets/discontinued/core-datasheet/)
 - particle  | []()
